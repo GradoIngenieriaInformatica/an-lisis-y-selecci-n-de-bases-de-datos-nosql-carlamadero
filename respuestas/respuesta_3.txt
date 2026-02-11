@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Columnar — Porque se trata de análisis histórico y consultas agregadas en grandes volúmenes de datos.
