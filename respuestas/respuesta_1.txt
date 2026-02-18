@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Porque el foco está en relaciones, comunidades y grados de separación.
